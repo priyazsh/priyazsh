@@ -50,16 +50,6 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#262](https://github.com/oyepriyansh/DevProfiles/issues/262) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#284](https://github.com/oyepriyansh/DevProfiles/issues/284) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#76](https://github.com/is-a-software/is-a-software/issues/76) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#73](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#71](https://github.com/is-a-software/is-a-software/issues/71) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#69](https://github.com/is-a-software/is-a-software/issues/69) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#68](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#64](https://github.com/is-a-software/is-a-software/issues/64) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#67](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v2](https://github.com/is-a-software/is-a-software/releases/tag/v2) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
