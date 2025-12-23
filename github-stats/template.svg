@@ -311,6 +311,13 @@
                 <text x="136" textLength="96" class="green">{{ data.gists }}</text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
+            <g id="g33a">
+                <text x="0" textLength="8" class="foreground">&#9553;</text>
+                <text x="8" textLength="120" class="purple"> Skill         </text>
+                <text x="128" textLength="8" class="foreground">&#9474;</text>
+                <text x="136" textLength="96" class="green">{{ data.skill }}</text>
+                <text x="232" textLength="8" class="foreground">&#9553;</text>
+            </g>
             <g id="g34">
                 <text x="0" textLength="240" class="foreground">&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9575;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9565;</text>
             </g>
@@ -532,7 +539,8 @@
                 <use xlink:href="#g31" y="8058" />
                 <use xlink:href="#g32" y="8075" />
                 <use xlink:href="#g33" y="8092" />
-                <use xlink:href="#g34" y="8109" />
+                <use xlink:href="#g33a" y="8109" />
+                <use xlink:href="#g34" y="8126" />
                 <rect x="0" y="8126" width="8" height="17" class="foreground" />
                 <use xlink:href="#g9" y="8126" />
             </g>
@@ -552,7 +560,8 @@
                 <use xlink:href="#g31" y="8432" />
                 <use xlink:href="#g32" y="8449" />
                 <use xlink:href="#g33" y="8466" />
-                <use xlink:href="#g34" y="8483" />
+                <use xlink:href="#g33a" y="8483" />
+                <use xlink:href="#g34" y="8500" />
                 <rect x="160" y="8500" width="8" height="17" class="foreground" />
                 <use xlink:href="#g1" y="8500" />
             </g>
@@ -572,7 +581,8 @@
                 <use xlink:href="#g31" y="8806" />
                 <use xlink:href="#g32" y="8823" />
                 <use xlink:href="#g33" y="8840" />
-                <use xlink:href="#g34" y="8857" />
+                <use xlink:href="#g33a" y="8857" />
+                <use xlink:href="#g34" y="8874" />
                 <rect x="168" y="8874" width="8" height="17" class="foreground" />
                 <use xlink:href="#g35" y="8874" />
             </g>
@@ -592,7 +602,8 @@
                 <use xlink:href="#g31" y="9180" />
                 <use xlink:href="#g32" y="9197" />
                 <use xlink:href="#g33" y="9214" />
-                <use xlink:href="#g34" y="9231" />
+                <use xlink:href="#g33a" y="9231" />
+                <use xlink:href="#g34" y="9248" />
                 <rect x="176" y="9248" width="8" height="17" class="foreground" />
                 <use xlink:href="#g36" y="9248" />
             </g>
@@ -612,7 +623,8 @@
                 <use xlink:href="#g31" y="9554" />
                 <use xlink:href="#g32" y="9571" />
                 <use xlink:href="#g33" y="9588" />
-                <use xlink:href="#g34" y="9605" />
+                <use xlink:href="#g33a" y="9605" />
+                <use xlink:href="#g34" y="9622" />
                 <rect x="184" y="9622" width="8" height="17" class="foreground" />
                 <use xlink:href="#g37" y="9622" />
             </g>
@@ -632,7 +644,8 @@
                 <use xlink:href="#g31" y="9928" />
                 <use xlink:href="#g32" y="9945" />
                 <use xlink:href="#g33" y="9962" />
-                <use xlink:href="#g34" y="9979" />
+                <use xlink:href="#g33a" y="9979" />
+                <use xlink:href="#g34" y="9996" />
                 <rect x="192" y="9996" width="8" height="17" class="foreground" />
                 <use xlink:href="#g38" y="9996" />
             </g>
@@ -652,7 +665,8 @@
                 <use xlink:href="#g31" y="10302" />
                 <use xlink:href="#g32" y="10319" />
                 <use xlink:href="#g33" y="10336" />
-                <use xlink:href="#g34" y="10353" />
+                <use xlink:href="#g33a" y="10353" />
+                <use xlink:href="#g34" y="10370" />
                 <rect x="200" y="10370" width="8" height="17" class="foreground" />
                 <use xlink:href="#g39" y="10370" />
             </g>
@@ -672,7 +686,8 @@
                 <use xlink:href="#g31" y="10676" />
                 <use xlink:href="#g32" y="10693" />
                 <use xlink:href="#g33" y="10710" />
-                <use xlink:href="#g34" y="10727" />
+                <use xlink:href="#g33a" y="10727" />
+                <use xlink:href="#g34" y="10744" />
                 <rect x="208" y="10744" width="8" height="17" class="foreground" />
                 <use xlink:href="#g40" y="10744" />
             </g>
@@ -692,7 +707,8 @@
                 <use xlink:href="#g31" y="11050" />
                 <use xlink:href="#g32" y="11067" />
                 <use xlink:href="#g33" y="11084" />
-                <use xlink:href="#g34" y="11101" />
+                <use xlink:href="#g33a" y="11101" />
+                <use xlink:href="#g34" y="11118" />
                 <use xlink:href="#g41" y="11118" />
                 <rect x="0" y="11135" width="8" height="17" class="foreground" />
                 <use xlink:href="#g9" y="11135" />
@@ -713,7 +729,8 @@
                 <use xlink:href="#g31" y="11424" />
                 <use xlink:href="#g32" y="11441" />
                 <use xlink:href="#g33" y="11458" />
-                <use xlink:href="#g34" y="11475" />
+                <use xlink:href="#g33a" y="11475" />
+                <use xlink:href="#g34" y="11492" />
                 <use xlink:href="#g41" y="11492" />
                 <use xlink:href="#g42" y="11509" />
                 <rect x="0" y="11526" width="8" height="17" class="foreground" />
@@ -735,7 +752,8 @@
                 <use xlink:href="#g31" y="11798" />
                 <use xlink:href="#g32" y="11815" />
                 <use xlink:href="#g33" y="11832" />
-                <use xlink:href="#g34" y="11849" />
+                <use xlink:href="#g33a" y="11849" />
+                <use xlink:href="#g34" y="11866" />
                 <use xlink:href="#g41" y="11866" />
                 <use xlink:href="#g42" y="11883" />
                 <rect x="160" y="11900" width="8" height="17" class="foreground" />
@@ -757,7 +775,8 @@
                 <use xlink:href="#g31" y="12172" />
                 <use xlink:href="#g32" y="12189" />
                 <use xlink:href="#g33" y="12206" />
-                <use xlink:href="#g34" y="12223" />
+                <use xlink:href="#g33a" y="12223" />
+                <use xlink:href="#g34" y="12240" />
                 <use xlink:href="#g41" y="12240" />
                 <use xlink:href="#g42" y="12257" />
                 <rect x="168" y="12274" width="8" height="17" class="foreground" />
@@ -779,7 +798,8 @@
                 <use xlink:href="#g31" y="12546" />
                 <use xlink:href="#g32" y="12563" />
                 <use xlink:href="#g33" y="12580" />
-                <use xlink:href="#g34" y="12597" />
+                <use xlink:href="#g33a" y="12597" />
+                <use xlink:href="#g34" y="12614" />
                 <use xlink:href="#g41" y="12614" />
                 <use xlink:href="#g42" y="12631" />
                 <rect x="176" y="12648" width="8" height="17" class="foreground" />
@@ -801,7 +821,8 @@
                 <use xlink:href="#g31" y="12920" />
                 <use xlink:href="#g32" y="12937" />
                 <use xlink:href="#g33" y="12954" />
-                <use xlink:href="#g34" y="12971" />
+                <use xlink:href="#g33a" y="12971" />
+                <use xlink:href="#g34" y="12988" />
                 <use xlink:href="#g41" y="12988" />
                 <use xlink:href="#g42" y="13005" />
                 <rect x="184" y="13022" width="8" height="17" class="foreground" />
@@ -823,7 +844,8 @@
                 <use xlink:href="#g31" y="13294" />
                 <use xlink:href="#g32" y="13311" />
                 <use xlink:href="#g33" y="13328" />
-                <use xlink:href="#g34" y="13345" />
+                <use xlink:href="#g33a" y="13345" />
+                <use xlink:href="#g34" y="13362" />
                 <use xlink:href="#g41" y="13362" />
                 <use xlink:href="#g42" y="13379" />
                 <rect x="192" y="13396" width="8" height="17" class="foreground" />
@@ -845,7 +867,8 @@
                 <use xlink:href="#g31" y="13668" />
                 <use xlink:href="#g32" y="13685" />
                 <use xlink:href="#g33" y="13702" />
-                <use xlink:href="#g34" y="13719" />
+                <use xlink:href="#g33a" y="13719" />
+                <use xlink:href="#g34" y="13736" />
                 <use xlink:href="#g41" y="13736" />
                 <use xlink:href="#g42" y="13753" />
                 <use xlink:href="#g47" y="13770" />
@@ -868,7 +891,8 @@
                 <use xlink:href="#g31" y="14042" />
                 <use xlink:href="#g32" y="14059" />
                 <use xlink:href="#g33" y="14076" />
-                <use xlink:href="#g34" y="14093" />
+                <use xlink:href="#g33a" y="14093" />
+                <use xlink:href="#g34" y="14110" />
                 <use xlink:href="#g41" y="14110" />
                 <use xlink:href="#g42" y="14127" />
                 <use xlink:href="#g47" y="14144" />
