@@ -55,7 +55,6 @@
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#7](https://github.com/priyazsh/priyazsh.github.io/issues/7) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#7](https://github.com/priyazsh/priyazsh.github.io/issues/7) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#5](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#262](https://github.com/priyazsh/DevProfiles/issues/262) **|** [priyazsh/DevProfiles](https://github.com/priyazsh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
