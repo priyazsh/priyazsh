@@ -54,7 +54,6 @@
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#84](https://github.com/is-a-software/is-a-software/issues/84) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#7](https://github.com/priyazsh/priyazsh.github.io/issues/7) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#7](https://github.com/priyazsh/priyazsh.github.io/issues/7) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#5](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
