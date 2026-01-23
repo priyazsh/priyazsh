@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#101](https://github.com/is-a-software/is-a-software/issues/101) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#103](https://github.com/is-a-software/is-a-software/issues/103) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#103](https://github.com/is-a-software/is-a-software/issues/103) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#98](https://github.com/is-a-software/is-a-software/issues/98) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
