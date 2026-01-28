@@ -9,7 +9,7 @@
       <div align="center">
    
   ✨ Learn more about me on [priyazsh.github.io](https://priyazsh.github.io). <br>
-  💌 You can reach me via email at [priyazsh@hotmail.com](mailto:priyazsh@hotmail.com).
+  💌 You can reach me via email at [priyanshprajapat@proton.me](mailto:priyanshprajapat@proton.me).
 </div>
   <a href="https://twitter.com/priyazsh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
   <a href="https://linkedin.com/in/priyazsh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin"/></a> 
