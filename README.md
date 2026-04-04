@@ -50,7 +50,6 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#118](https://github.com/is-a-software/is-a-software/issues/118) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
