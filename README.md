@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [faizan-2005/faizan-2005.github.io](https://github.com/faizan-2005/faizan-2005.github.io)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#130](https://github.com/is-a-software/is-a-software/issues/130) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
