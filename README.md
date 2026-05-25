@@ -50,7 +50,6 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [faizan-2005/faizan-2005.github.io](https://github.com/faizan-2005/faizan-2005.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
