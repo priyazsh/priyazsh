@@ -50,6 +50,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#18](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#20](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#22](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#23](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [priyazsh/is-a-software](https://github.com/priyazsh/is-a-software) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
