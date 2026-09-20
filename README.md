@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#34](https://github.com/priyazsh/priyazsh.github.io/issues/34) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
