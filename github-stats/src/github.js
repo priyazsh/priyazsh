@@ -64,11 +64,19 @@ class GitHubUser {
         this.commitsCount = await this.getCommits();
         this.issueCount = await this.getIssueAndPr("issue");
         this.prCount = await this.getIssueAndPr("pr");
+        this.skillCount = Math.floor(
+            this.starsCount * 2 +
+            this.commitsCount * 0.5 +
+            this.prCount * 1.5 +
+            this.userContent.data.public_repos * 3 +
+            this.userContent.data.followers * 1
+        );
         this.stars = align(this.starsCount);
         this.forks = align(this.forkCount);
         this.commits = align(this.commitsCount);
         this.issues = align(this.issueCount);
         this.pr = align(this.prCount);
+        this.skill = align(this.skillCount);
         this.uptime = this.createdAt;
         this.username = align_username(this.userName);
     }
