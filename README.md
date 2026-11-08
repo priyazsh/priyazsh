@@ -50,8 +50,6 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#8](https://github.com/priyazsh/.well-known/issues/8) **|** [priyazsh/.well-known](https://github.com/priyazsh/.well-known)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#9](https://github.com/priyazsh/.well-known/issues/9) **|** [priyazsh/.well-known](https://github.com/priyazsh/.well-known)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
