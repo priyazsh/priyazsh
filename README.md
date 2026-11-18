@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [priyanshbot/gotula](https://github.com/priyanshbot/gotula)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
