@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#2054](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
