@@ -50,7 +50,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#2054](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#2056](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#142](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#139](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#138](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#136](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#135](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#133](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#131](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#109](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#134](https://github.com/is-a-software/is-a-software/issues/134) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
